@@ -2,10 +2,13 @@
   <dictionary name="Caxambu">
     <words>
       <w>alfanumerico</w>
+      <w>altura</w>
       <w>antecessor</w>
       <w>centimetros</w>
       <w>coisa</w>
+      <w>digita</w>
       <w>digite</w>
+      <w>dimensão</w>
       <w>distancia</w>
       <w>entre</w>
       <w>escolhido</w>
@@ -14,12 +17,18 @@
       <w>hectometros</w>
       <w>imprimir</w>
       <w>insira</w>
+      <w>larg</w>
+      <w>largura</w>
       <w>letra</w>
+      <w>litros</w>
       <w>mais</w>
       <w>milimetros</w>
       <w>mundo</w>
+      <w>necessários</w>
       <w>nota</w>
       <w>numero</w>
+      <w>parede</w>
+      <w>pinta</w>
       <w>primeira</w>
       <w>quadrada</w>
       <w>qual</w>
@@ -29,8 +38,10 @@
       <w>reestruturação</w>
       <w>segunda</w>
       <w>seja</w>
+      <w>serão</w>
       <w>soma</w>
       <w>sucessor</w>
+      <w>tinta</w>
       <w>triplo</w>
       <w>vindo</w>
     </words>
