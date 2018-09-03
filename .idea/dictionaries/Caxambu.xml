@@ -2,10 +2,13 @@
   <dictionary name="Caxambu">
     <words>
       <w>alfanumerico</w>
+      <w>antecessor</w>
       <w>coisa</w>
       <w>digite</w>
       <w>entre</w>
+      <w>escolhido</w>
       <w>imprimir</w>
+      <w>insira</w>
       <w>letra</w>
       <w>mais</w>
       <w>mundo</w>
@@ -15,6 +18,7 @@
       <w>reestruturação</w>
       <w>seja</w>
       <w>soma</w>
+      <w>sucessor</w>
       <w>vindo</w>
     </words>
   </dictionary>
